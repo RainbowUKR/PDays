@@ -22,12 +22,14 @@ namespace WindowsPhoneGame4
         SpriteBatch spriteBatch;
         StateManager stateManager;
 
+
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             this.stateManager = new StateManager();
             Content.RootDirectory = "Content";
-
+            
             // Частота кадра на Windows Phone по умолчанию — 30 кадров в секунду.
             TargetElapsedTime = TimeSpan.FromTicks(333333);
 
@@ -47,6 +49,7 @@ namespace WindowsPhoneGame4
 
             base.Initialize();
             this.stateManager.Initialize();
+            graphics.SupportedOrientations = DisplayOrientation.LandscapeRight;
         }
 
         /// <summary>
@@ -104,5 +107,10 @@ namespace WindowsPhoneGame4
             base.Draw(gameTime);
             this.stateManager.Draw(spriteBatch);
         }
+
+        //private void RotationDelegate<OrientationChangedEventArgs>(object sender, OrientationChangedEventArgs e )
+        //{
+            
+        //}
     }
 }
