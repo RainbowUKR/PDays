@@ -1,0 +1,17 @@
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\WindowsPhoneGame4.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\WindowsPhoneGame4.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\WindowsPhoneGame4.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\WindowsPhoneGame4.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\WindowsPhoneGame4.xap
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\WindowsPhoneGame4.xap
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
