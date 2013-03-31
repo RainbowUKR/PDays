@@ -32,13 +32,6 @@ namespace WindowsPhoneGame4.GameElements.Characters
 
         private bool move;
 
-        public Rectangle DestRect { get; private set; } 
-
-        public Vector2 Position { get; private set; }
-
-        public int Width { get; private set; }
-        public int Height { get; private set; }
-
         public Character()
         {
             this.move = false;
@@ -49,9 +42,9 @@ namespace WindowsPhoneGame4.GameElements.Characters
             this.yStep = 0;
         }
 
-        public void Initialize(Vector2 possition, int width, int height, int sourceWidth, int sourceHeight)
+        public void Initialize(Vector2 position, int width, int height, int sourceWidth, int sourceHeight)
         {
-            this.Position = possition;
+            this.Position = position;
             
             this.Width = width;
             this.Height = height;
@@ -61,8 +54,8 @@ namespace WindowsPhoneGame4.GameElements.Characters
 
             this.sourceRectangle = new Rectangle(0, 0, width, height);
 
-            int x = (int)possition.X - width / 2;
-            int y = (int)possition.Y - height / 2;
+            int x = (int)position.X - width / 2;
+            int y = (int)position.Y - height / 2;
             this.DestRect = new Rectangle(x, y, width, height);
         }
 

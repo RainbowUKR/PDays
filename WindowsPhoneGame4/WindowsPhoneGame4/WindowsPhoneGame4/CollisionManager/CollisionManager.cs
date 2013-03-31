@@ -38,6 +38,12 @@ namespace WindowsPhoneGame4.CollisionManager
             }
         }
 
+        public void LoadMainCharacters(GameElement developer, GameElement pc)
+        {
+            this.developer = developer;
+            this.pc = pc;
+        }
+
         public void DetectCollisions()
         {
             if (developer.DestRect.Intersects(pc.DestRect))

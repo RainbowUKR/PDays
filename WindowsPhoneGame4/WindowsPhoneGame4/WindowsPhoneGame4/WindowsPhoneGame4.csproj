@@ -68,6 +68,7 @@
     <Compile Include="CollisionManager\CollisionManager.cs" />
     <Compile Include="GameElements\Characters\Character.cs" />
     <Compile Include="GameElements\Characters\Direction.cs" />
+    <Compile Include="GameElements\Characters\PersonalComputer.cs" />
     <Compile Include="GameElements\GameElement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StateManagerFramework\BaseState.cs" />

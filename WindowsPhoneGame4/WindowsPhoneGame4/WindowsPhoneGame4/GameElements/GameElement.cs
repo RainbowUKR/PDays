@@ -10,17 +10,19 @@ namespace WindowsPhoneGame4.GameElements
 {
     public abstract class GameElement
     {
-        public Rectangle DestRect { get; private set; }
+        public Rectangle DestRect { get; set; }
 
-        public Vector2 Position { get; private set; }
+        public Vector2 Position { get; set; }
 
-        public int Width { get; private set; }
-        public int Height { get; private set; }
+        public int Width { get; set; }
+        public int Height { get; set; }
 
         public abstract void Update(GameTime gameTime);
 
         public abstract void UpdateTouch(TouchLocation touch);
 
         public abstract void Draw(SpriteBatch spriteBatch);
+
+
     }
 }

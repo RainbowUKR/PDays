@@ -7,9 +7,10 @@ namespace WindowsPhoneGame4.GameElements.Characters
 {
     public enum Direction
     {
-        Bottom = 0,
-        Left = 1,
-        Right = 2,
-        Top = 3
+        NONE = 0,
+        Bottom = 1,
+        Left = 2,
+        Right = 3,
+        Top = 4
     }
 }
