@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Content;
 
 namespace WindowsPhoneGame4.StateManagerFramework
 {
@@ -24,9 +25,9 @@ namespace WindowsPhoneGame4.StateManagerFramework
             this.sourceGameState.Initialize();
         }
 
-        public void LoadContent()
+        public void LoadContent(ContentManager contentManager)
         {
-            this.sourceGameState.LoadContent();
+            this.sourceGameState.LoadContent(contentManager);
         }
 
         public void OnEntering()

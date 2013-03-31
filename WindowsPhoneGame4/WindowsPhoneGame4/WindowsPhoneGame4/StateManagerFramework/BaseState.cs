@@ -5,6 +5,7 @@ using System.Text;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input.Touch;
+using Microsoft.Xna.Framework.Content;
 
 namespace WindowsPhoneGame4.StateManagerFramework
 {
@@ -13,7 +14,7 @@ namespace WindowsPhoneGame4.StateManagerFramework
         public abstract void Initialize();
 
 
-        public abstract void LoadContent();
+        public abstract void LoadContent(ContentManager contentManager);
 
 
         public abstract void OnEntering();

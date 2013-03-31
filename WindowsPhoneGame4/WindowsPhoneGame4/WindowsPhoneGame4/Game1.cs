@@ -60,7 +60,7 @@ namespace WindowsPhoneGame4
         {
             // Создайте новый SpriteBatch, который можно использовать для отрисовки текстур.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            this.stateManager.LoadContent();
+            this.stateManager.LoadContent(Content);
 
             // ЗАДАЧА: используйте здесь this.Content для загрузки контента игры
         }
@@ -101,11 +101,12 @@ namespace WindowsPhoneGame4
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-
+            spriteBatch.Begin();
             // ЗАДАЧА: добавьте здесь код отрисовки
 
             base.Draw(gameTime);
             this.stateManager.Draw(spriteBatch);
+            spriteBatch.End();
         }
 
         //private void RotationDelegate<OrientationChangedEventArgs>(object sender, OrientationChangedEventArgs e )
