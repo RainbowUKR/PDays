@@ -8,15 +8,15 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Dmitriy\Documents\Visual Studio 2010\Projects\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Георгий\Desktop\kt\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Георгий\Desktop\kt\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Георгий\Desktop\kt\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Георгий\Desktop\kt\WindowsPhoneGame4\WindowsPhoneGame4\WindowsPhoneGame4\bin\Windows Phone\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-03-26T01:40:37.7301949+04:00</Value>
+        <Value>2013-03-29T23:14:01.7405407+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
